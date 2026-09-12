@@ -23,6 +23,7 @@ myfile.txt
 *~
 
 # IDE
+.orca/
 .vscode/
 .idea/
 *.sublime-*
