@@ -41,3 +41,7 @@ npm-debug.log*
 temp/
 *.json.tmp
 
+# Local agent files
+.mind.*
+mind.*
+graphify-out/
